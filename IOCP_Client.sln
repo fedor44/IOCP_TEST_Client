@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IOCP_Client", "IOCP_Client\IOCP_Client.vcproj", "{4ECF7E43-8CC3-4907-B977-47F167E519BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECF7E43-8CC3-4907-B977-47F167E519BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4ECF7E43-8CC3-4907-B977-47F167E519BA}.Debug|Win32.Build.0 = Debug|Win32
+		{4ECF7E43-8CC3-4907-B977-47F167E519BA}.Release|Win32.ActiveCfg = Release|Win32
+		{4ECF7E43-8CC3-4907-B977-47F167E519BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
